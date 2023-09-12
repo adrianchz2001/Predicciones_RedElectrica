@@ -1,1 +1,4 @@
-# Predicciones_RedElectrica
+# Predicciones_Red_Eléctrica_de_España
+Este proyecto consiste en una continuación de uno de nuestros anteriores proyectos, el cual consistía en tomar y limpiar los datos de la API de la Red Eléctrica de España.
+En este caso, la idea para continuarlo era la de generar un modelo predictivo por cada variable que se podía extraer de dicha API. No obstante, tras experimentar con numerosos modelos y arquitecturas de redes neuronales, hemos hallado que las dos únicas variables que parecen poder ser predecidas con relativo éxito son las variables precio y demanda nacional.
+Para esto hemos empleado desde RNN y más de 30 modelos de Machine Learning hasta arquitecturas propias de redes neuronales y otras arquitecturas como las obtenidas por la API Prophet de Facebook, que sirve para la predicción de series temporales diarias en concreto.
