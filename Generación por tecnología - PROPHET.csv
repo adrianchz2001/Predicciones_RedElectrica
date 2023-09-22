@@ -1,0 +1,16 @@
+Nombre,Modelo,mae,mse,r2
+Generación Hidráulica GWh,<prophet.forecaster.Prophet object at 0x000001FAF2737C40>,27.943584519099485,1354.868245263661,-0.2927520982465639
+Generación Nuclear GWh,<prophet.forecaster.Prophet object at 0x000001FAF2FDE9B0>,7.72350494811133,100.47045749590237,0.7476778854519615
+Generación Carbón GWh,<prophet.forecaster.Prophet object at 0x000001FAF2F02C20>,17.484715454357822,423.6136692559534,-28.74350439143148
+Generación Motores diésel GWh,<prophet.forecaster.Prophet object at 0x000001FAF291BAC0>,0.6091184114445216,0.5422949892600185,0.48279606911575446
+Generación Turbina de gas GWh,<prophet.forecaster.Prophet object at 0x000001FAF2F03AF0>,0.5170295866204735,0.5219242149819482,-0.01779701792027666
+Generación Turbina de vapor GWh,<prophet.forecaster.Prophet object at 0x000001FAF55CBD30>,0.5038158138624804,0.4146620883497336,0.2821880966323569
+Generación Ciclo combinado GWh,<prophet.forecaster.Prophet object at 0x000001FAF58D2260>,95.99285603554605,11207.006833519954,-3.121146628879286
+Generación Hidroeólica GWh,<prophet.forecaster.Prophet object at 0x000001FAF5E1BB80>,0.03910173246086701,0.0021485413037867418,0.022543335900878425
+Generación Eólica GWh,<prophet.forecaster.Prophet object at 0x000001FAF5BF8190>,65.53903148052301,6385.317801198354,0.18626085697781858
+Generación Solar fotovoltaica GWh,<prophet.forecaster.Prophet object at 0x000001FAF58B69B0>,27.463144770054484,992.2041277955594,0.19680906689175737
+Generación Otras renovables GWh,<prophet.forecaster.Prophet object at 0x000001FAF5E193F0>,1.6993143879684165,4.859123937720425,-0.6395650709975516
+Generación Cogeneración GWh,<prophet.forecaster.Prophet object at 0x000001FA8022B160>,25.527478692780896,738.6803940202578,-7.9330095312044
+Generación Residuos no renovables GWh,<prophet.forecaster.Prophet object at 0x000001FA826C0100>,0.689302041739365,0.7764378028632513,-0.3055885229036053
+Generación Residuos renovables GWh,<prophet.forecaster.Prophet object at 0x000001FA8266F4C0>,0.3013456520089494,0.12396512411421572,0.5376745044869233
+Generación Solar térmica GWh,<prophet.forecaster.Prophet object at 0x000001FAF770F100>,6.06864418877012,58.25723857358753,0.3347479774270212

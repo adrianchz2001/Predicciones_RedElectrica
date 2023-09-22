@@ -1,0 +1,2 @@
+Nombre,Modelo,mae,mse,r2
+Demanda,<keras.src.engine.sequential.Sequential object at 0x0000011C13ADC790>,12.770258212764887,329.78350964619625,0.9420185731773937

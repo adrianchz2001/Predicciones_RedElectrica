@@ -1,0 +1,3 @@
+Nombre,Modelo,mae,mse,r2
+Generación Renovables GWh,<prophet.forecaster.Prophet object at 0x000001FAF5E1B2B0>,62.42682448404785,5912.947492296692,0.06037750333330372
+Generación No renovables GWh,<prophet.forecaster.Prophet object at 0x000001FA821A2DA0>,79.36716288038134,9070.650002043587,-1.5318619642033142

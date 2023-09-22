@@ -1,0 +1,2 @@
+Nombre,Modelo,mae,mse,r2
+Demanda,<prophet.forecaster.Prophet object at 0x000001FAF5E3F850>,28.76929042067652,1377.3475171395637,0.757839394819943

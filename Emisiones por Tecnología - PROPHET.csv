@@ -1,0 +1,9 @@
+Nombre,Modelo,mae,mse,r2
+Emisiones Motores diésel,<prophet.forecaster.Prophet object at 0x000001FAF5C63610>,393.1297604406758,218427.91466317192,0.5421250739970958
+Emisiones Turbina de gas,<prophet.forecaster.Prophet object at 0x000001FAF5C61180>,558.6018238314995,560037.9965375612,-0.02467035230787351
+Emisiones Turbina de vapor,<prophet.forecaster.Prophet object at 0x000001FAF7819300>,452.44511260039417,335057.17721230845,0.2844154553755429
+Emisiones Ciclo combinado,<prophet.forecaster.Prophet object at 0x000001FAF2FC3400>,35895.60814512704,1568402802.921562,-3.1189747043685934
+Emisiones Cogeneración,<prophet.forecaster.Prophet object at 0x000001FAF59E1120>,8974.93786227656,91182937.15382388,-7.215952090194387
+Emisiones Residuos no renovables,<prophet.forecaster.Prophet object at 0x000001FAF59D67A0>,336.8682573354188,142109.13365490787,-1.756722057111579
+Total tCO2 eq.,<prophet.forecaster.Prophet object at 0x000001FA8086B940>,33737.352489208184,1754299290.494953,-1.9800722935648434
+Emisiones Carbón,<prophet.forecaster.Prophet object at 0x000001FA80869540>,16619.25190891784,393296254.723944,-30.047015433173893

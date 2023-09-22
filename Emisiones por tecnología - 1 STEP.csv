@@ -1,0 +1,9 @@
+Nombre,Modelo,mae,mse,r2
+Emisiones Motores diésel,<keras.src.engine.sequential.Sequential object at 0x0000011C7B555E10>,338.6568313831278,182669.71304843284,0.6170824526984093
+Emisiones Turbina de gas,<keras.src.engine.sequential.Sequential object at 0x0000011C55BBEC20>,483.6632749001542,396187.56444949796,0.2751176638829398
+Emisiones Turbina de vapor,<keras.src.engine.sequential.Sequential object at 0x0000011C842FD6C0>,433.37718907651345,303597.52319529984,0.3516041136848659
+Emisiones Ciclo combinado,<keras.src.engine.sequential.Sequential object at 0x0000011C8BAB65C0>,10368.735425658633,179012550.22167557,0.529873215761863
+Emisiones Cogeneración,<keras.src.engine.sequential.Sequential object at 0x0000011C864E2470>,1427.0566073430496,3800289.7933981116,0.657578491700251
+Emisiones Residuos no renovables,<keras.src.engine.sequential.Sequential object at 0x0000011C9B2623E0>,126.5761731668652,30043.80983934802,0.4171913434859208
+Total tCO2 eq.,<keras.src.engine.sequential.Sequential object at 0x0000011CA0947310>,11655.455766535875,231838493.23686185,0.6061701250063979
+Emisiones Carbón,<keras.src.engine.sequential.Sequential object at 0x0000011CA7048F10>,1659.3772948780827,5047758.875662979,0.6015272308513342

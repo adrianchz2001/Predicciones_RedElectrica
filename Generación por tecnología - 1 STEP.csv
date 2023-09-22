@@ -1,0 +1,16 @@
+Nombre,Modelo,mae,mse,r2
+Generación Hidráulica GWh,<keras.src.engine.sequential.Sequential object at 0x0000011C69C115A0>,11.552518828866726,247.72817318304433,0.7636293294224732
+Generación Nuclear GWh,<keras.src.engine.sequential.Sequential object at 0x0000011C69C11510>,3.4136712099083883,43.44861336141819,0.8908828896496234
+Generación Carbón GWh,<keras.src.engine.sequential.Sequential object at 0x0000011C7FA22320>,1.5389200494535302,4.861795254471596,0.6586351220544701
+Generación Motores diésel GWh,<keras.src.engine.sequential.Sequential object at 0x0000011C071D5E70>,0.4822794175254924,0.3686545732558611,0.6484024411020999
+Generación Turbina de gas GWh,<keras.src.engine.sequential.Sequential object at 0x0000011C061B8490>,0.4484514245965556,0.3380705931032196,0.34073332558655645
+Generación Turbina de vapor GWh,<keras.src.engine.sequential.Sequential object at 0x0000011C13B59ED0>,0.45072746958967813,0.32303724633882563,0.4407977310490395
+Generación Ciclo combinado GWh,<keras.src.engine.sequential.Sequential object at 0x0000011C1815BB80>,30.54169350594149,1544.3297180959426,0.43210445874152936
+Generación Hidroeólica GWh,<keras.src.engine.sequential.Sequential object at 0x0000011C7FA21BA0>,0.021252844751043293,0.0008507882901556796,0.6129426590568774
+Generación Eólica GWh,<keras.src.engine.sequential.Sequential object at 0x0000011C27A60D90>,56.11576287650206,5524.240407318987,0.2959957836309083
+Generación Solar fotovoltaica GWh,<keras.src.engine.sequential.Sequential object at 0x0000011C12A813C0>,13.230272031364954,272.9276146019626,0.7790646306519646
+Generación Otras renovables GWh,<keras.src.engine.sequential.Sequential object at 0x0000011C320CDBA0>,0.6634448771626426,0.8915197021115645,0.6991835189999296
+Generación Cogeneración GWh,<keras.src.engine.sequential.Sequential object at 0x0000011C3415E6E0>,3.9933096029512556,28.899851066112454,0.6505083292939133
+Generación Residuos no renovables GWh,<keras.src.engine.sequential.Sequential object at 0x0000011C3A93F460>,0.254095250373464,0.10956948188109113,0.8157577368374965
+Generación Residuos renovables GWh,<keras.src.engine.sequential.Sequential object at 0x0000011C46F41E40>,0.11770142655736127,0.023429855695906925,0.912618813381498
+Generación Solar térmica GWh,<keras.src.engine.sequential.Sequential object at 0x0000011C46F64F70>,3.8191002720674594,27.202165374257756,0.6893725831043069
